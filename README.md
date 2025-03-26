@@ -1,5 +1,3 @@
-# Titantic_EDA
-Exploratory Data Analysis of Titanic dataset to uncover survival trends
 # 🚢 Titanic Survival Exploratory Data Analysis (EDA)  
 **Author:** Rohan Duraipandian  
 **Tools:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook  
